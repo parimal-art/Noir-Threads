@@ -295,7 +295,7 @@ export default function App() {
 
           {/* Main Image */}
           <section className="order-1 lg:order-2 lg:col-span-7">
-            <div className="group aspect-[3.2/4] w-full overflow-hidden rounded-3xl border border-white/10 bg-gradient-to-b from-white/5 to-white/0 shadow-[0_0_0_1px_rgba(255,255,255,0.06)]">
+            <div className="group aspect-[3/4.2] w-full overflow-hidden rounded-3xl border border-white/10 bg-gradient-to-b from-white/5 to-white/0 shadow-[0_0_0_1px_rgba(255,255,255,0.06)]">
               <img
                 src={IMAGES[activeImage]}
                 alt="product"
